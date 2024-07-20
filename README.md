@@ -1,5 +1,11 @@
-In this project i will help flattening the curve, by writing a C++ program that simulates a contact tracing system.
+Implementation of a simple Microservice framework, which i will use it to implement a system.
 
-The program simulates a social network (represented as a graph), in which an epidemic is spreading, and contact tracers are searching for infected people, trace their contacts, and attempt to break the chain of infection.
+In the Microservices architecture, complex applications are composed of small and independent services that are able to communicate with each other using messages. 
 
-The program will receive a config file (json) as an input, which includes the description of the social network graph, a list of agents (viruses and contact tracers), and additional settings.
+The Microservice architecture allows us to compose a large program from a collection of smaller independent parts.
+
+This project is composed of two main sections:
+
+1. Building a simple Microservice framework.
+   
+3. Implementing a system on top of this framework.
